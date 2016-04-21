@@ -80,17 +80,23 @@ section {
     }
 
     #home h1 {
-        padding-top: 80px;
+        padding-top: 100px;
         font-weight: 900;
-        font-size: 70px;
+        font-size: 35px;
         font-family: 'Browallia New';
     }
+
+#home h2{
+    font-weight: 900;
+    font-size: 45px;
+}
 /*SMPLE CLASS TO ADJUST SECTION PADDING & HEIGHT*/
 
 /*CLASS TO FORMAT TEXT*/
 .p-cls {
     padding-top: 30px;
-    padding-bottom: 40px;
+    padding-bottom: 35px;
+    font-size: 25px;
 }
 
 /*======================================
